@@ -73,15 +73,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushkumarOP&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushkumarOP&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkumarOP&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
 </p>
 
 ---
