@@ -1,16 +1,91 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Ayush Kumar 👋</h1>
 
-<!--
-**ayushkumarOP/ayushkumarOP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">SDE-1 @ dunnhumby (Tesco) | Backend, Cloud & Full-Stack Engineer</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems;.NET+%7C+GCP+%7C+Kubernetes;Competitive+Programmer;Always+shipping+something+new" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://leetcode.com/YOUR-LEETCODE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://codeforces.com/profile/YOUR-CODEFORCES"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+</p>
+
+---
+
+### 🚀 About Me
+
+- 🏢 Software Engineer (SDE-1) at **dunnhumby (Tesco)**, Gurugram — converted from intern to full-time in 2025
+- 🎓 B.Tech in CSE from **NSUT, Delhi** (Class of 2025)
+- 🔭 Currently the SPOC for our **Notification Service**, and led a legacy **PHP → .NET migration** using GitHub Copilot + MCP
+- 🧠 Deep into **system design** — distributed systems, consistent hashing, rate limiting, cursor-based pagination
+- 🏆 Active competitive programmer on **LeetCode, Codeforces & CodeChef**
+- 🌱 Exploring open-source contributions in the **.NET** and **GCP/Kubernetes** ecosystems
+- 📫 Reach me at: **YOUR-EMAIL@example.com**
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,cpp,python,js,ts" />
+</p>
+
+**Backend & Frameworks**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,react" />
+</p>
+
+**Cloud & Infra**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=gcp,kubernetes,docker,githubactions" />
+</p>
+
+**Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" />
+</p>
+
+**Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" />
+</p>
+
+---
+
+### 💡 Featured Projects
+
+| Project | Description |
+|---|---|
+| 🎧 **[DeepFake Audio Detection](https://github.com/ayushkumarOP/YOUR-REPO)** | ML-based system to detect synthetic/deepfake audio, deployed on GCP |
+| 📖 **[Manga/Comic Translator](https://github.com/ayushkumarOP/YOUR-REPO)** | OCR + ML pipeline (EasyOCR, Meta NLLB, OpenCV) to auto-translate manga/comics |
+| 🌐 **[RaceService.Gateway](https://github.com/ayushkumarOP/YOUR-REPO)** | API Gateway built with YARP on .NET 8, deployed on GCP Cloud Run with Workload Identity |
+| 🚨 **[Rescue-App-SIH](https://github.com/ayushkumarOP/Rescue-App-SIH)** | Disaster rescue coordination app built for Smart India Hackathon |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushkumarOP&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushkumarOP&theme=tokyonight&hide_border=true" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkumarOP&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+</p>
+
+---
+
+<p align="center"><i>⭐️ From <a href="https://github.com/ayushkumarOP">ayushkumarOP</a> — always open to interesting collaborations!</i></p>
