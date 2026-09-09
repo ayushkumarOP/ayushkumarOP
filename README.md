@@ -19,7 +19,6 @@
 
 - 🏢 Software Engineer (SDE-1) at **dunnhumby (Tesco)**, Gurugram — converted from intern to full-time in 2025
 - 🎓 B.Tech in CSE from **NSUT, Delhi** (Class of 2025)
-- 🔭 Currently the SPOC for our **Notification Service**, and led a legacy **PHP → .NET migration** using GitHub Copilot + MCP
 - 🧠 Deep into **system design** — distributed systems, consistent hashing, rate limiting, cursor-based pagination
 - 🏆 Active competitive programmer on **LeetCode, Codeforces & CodeChef**
 - 🌱 Exploring open-source contributions in the **.NET** and **GCP/Kubernetes** ecosystems
