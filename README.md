@@ -66,8 +66,7 @@
 | Project | Description |
 |---|---|
 | 🎧 **[DeepFake Audio Detection](https://github.com/ayushkumarOP/YOUR-REPO)** | ML-based system to detect synthetic/deepfake audio, deployed on GCP |
-| 📖 **[Manga/Comic Translator](https://github.com/ayushkumarOP/YOUR-REPO)** | OCR + ML pipeline (EasyOCR, Meta NLLB, OpenCV) to auto-translate manga/comics |
-| 🌐 **[RaceService.Gateway](https://github.com/ayushkumarOP/YOUR-REPO)** | API Gateway built with YARP on .NET 8, deployed on GCP Cloud Run with Workload Identity |
+| 🌐 **[RaceService](https://github.com/ayushkumarOP/YOUR-REPO)** | F1 fan forum built as .NET 8 microservices deployed on GCP|
 | 🚨 **[Rescue-App-SIH](https://github.com/ayushkumarOP/Rescue-App-SIH)** | Disaster rescue coordination app built for Smart India Hackathon |
 
 ---
